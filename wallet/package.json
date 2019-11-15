@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "aes-js": "3.0.0",
-    "elliptic": "6.3.3",
+    "elliptic": "6.5.1",
     "ethers-utils": "^2.1.0",
     "scrypt-js": "2.0.3",
     "setimmediate": "1.0.4",
